@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataLoader\bin\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataLoader\bin\Debug\AIRecommendation.DataLoader.pdb
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.pdb

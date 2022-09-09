@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\bin\Debug\AIRecommendation.RecommendationTesting.exe.config
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\bin\Debug\AIRecommendation.RecommendationTesting.exe
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\bin\Debug\AIRecommendation.RecommendationTesting.pdb
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\bin\Debug\AIRecommendation.Recommender.dll
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\bin\Debug\AIRecommendation.Recommender.pdb
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\obj\Debug\AIRecommendation.RecommendationTesting.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\obj\Debug\AIRecommendation.RecommendationTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\obj\Debug\AIRecommendation.RecommendationTesting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\obj\Debug\AIRecommendation.RecommendationTesting.csproj.CopyComplete
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\obj\Debug\AIRecommendation.RecommendationTesting.exe
+C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RecommendationTesting\obj\Debug\AIRecommendation.RecommendationTesting.pdb
