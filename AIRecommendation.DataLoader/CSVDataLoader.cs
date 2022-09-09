@@ -23,10 +23,17 @@ namespace AIRecommendation.DataLoader
             {
                 string line = sr.ReadLine();
                 string[] vals = line.Split(';');
-
-                if (vals[0] != "\"User-ID\"")
+		try
+		{
+		     if (vals[0] != "\"User-ID\"")
+                     {
+                    	details.Ratings.Add(new BookUserRating() { UserID = int.Parse(vals[0].Trim('"')), ISBN = vals[1].Trim('"'), Rating = byte.Parse(vals[2].Trim('"')) });
+                     }
+                
+		}
+		catch (Exception)
                 {
-                    details.Ratings.Add(new BookUserRating() { UserID = int.Parse(vals[0].Trim('"')), ISBN = vals[1].Trim('"'), Rating = byte.Parse(vals[2].Trim('"')) });
+                    //Logger.Log(line);
                 }
             }
         }
