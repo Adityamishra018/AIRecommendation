@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\bin\Debug\AIRecommendation.RatingsAggregator.dll
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\bin\Debug\AIRecommendation.RatingsAggregator.pdb
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\bin\Debug\AIRecommendation.DataLoader.dll
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\bin\Debug\AIRecommendation.DataLoader.pdb
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\obj\Debug\AIRecommendation.RatingsAggregation.csproj.AssemblyReference.cache
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\obj\Debug\AIRecommendation.RatingsAggregation.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\obj\Debug\AIRecommendation.RatingsAggregation.csproj.CopyComplete
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\obj\Debug\AIRecommendation.RatingsAggregator.dll
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.RatingsAggregator\obj\Debug\AIRecommendation.RatingsAggregator.pdb

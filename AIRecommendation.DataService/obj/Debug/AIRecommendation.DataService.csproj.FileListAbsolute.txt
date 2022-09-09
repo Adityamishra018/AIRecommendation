@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\bin\Debug\AIRecommendation.DataService.dll
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\bin\Debug\AIRecommendation.DataService.pdb
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\bin\Debug\AIRecommendation.DataLoader.dll
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\bin\Debug\AIRecommendation.DataLoader.pdb
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\obj\Debug\AIRecommendation.DataService.csproj.AssemblyReference.cache
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\obj\Debug\AIRecommendation.DataService.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\obj\Debug\AIRecommendation.DataService.csproj.CopyComplete
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\obj\Debug\AIRecommendation.DataService.dll
-C:\Users\Admin\Documents\C#VsProjects\AIRecommendation\AIRecommendation.DataService\obj\Debug\AIRecommendation.DataService.pdb
