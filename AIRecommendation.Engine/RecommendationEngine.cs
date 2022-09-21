@@ -39,11 +39,15 @@ namespace AIRecommendation.Engine
 
             dict.Remove(preference.ISBN);
 
-            foreach(var item in dict)
+            Parallel.ForEach(dict, (item) =>
             {
                 int[] other = item.Value.ToArray();
-                Isbns.Add((recommender.GetCoefficient(baseArray, item.Value.ToArray()),item.Key));
-            }
+                var coff = recommender.GetCoefficient(baseArray, item.Value.ToArray());
+                lock (result)
+                {
+                    Isbns.Add((coff,item.Key));
+                }
+            });
 
             Isbns.Sort((a, b) =>
             {
@@ -54,17 +58,23 @@ namespace AIRecommendation.Engine
             
             foreach(var isbn in Isbns)
             {
-                foreach(var book in details.Books)
+                Parallel.ForEach(details.Books, (book) =>
                 {
-                    if(book.ISBN == isbn.Item2)
+                    if (book.ISBN == isbn.Item2)
                     {
                         //Console.WriteLine($"{isbn.Item1} for {isbn.Item2}");
-                        result.Add(book);
+                        lock (aggregator)
+                        {
+                            result.Add(book);
+                        }
+                        if (result.Count % 1000 == 0)
+                            Console.WriteLine(result.Count);
                         if (result.Count == limit)
-                            return result;
+                            return;
                     }
-                }
-
+                });
+                if (result.Count == limit)
+                    break;
             }
             return result;
         }
