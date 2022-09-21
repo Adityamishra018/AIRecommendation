@@ -13,7 +13,7 @@ namespace AIRecommendation.RecommendationEngineUnitTest
         [TestMethod]
         public void TestMethod1()
         {
-            Preference preference = new Preference() { Age=50,State="new york",ISBN = "0155061224" };
+            Preference preference = new Preference() { Age=25,State="california",ISBN = "014062080X" };
             RecommendationEngine engine = new RecommendationEngine();
             List<Book> books = engine.Recommend(preference, 10);
             Assert.AreEqual(10, books.Count);
